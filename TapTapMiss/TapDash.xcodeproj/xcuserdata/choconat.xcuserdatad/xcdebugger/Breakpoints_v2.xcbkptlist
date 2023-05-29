@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9E1E665E-EFE7-408B-B671-9CA9B89FC2ED"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CE3422E-F420-4943-B4A2-D80580FC1C38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "setUpGame()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88859E1F-CA57-4978-A61B-22E2C93C5CFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "GameScene"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84C08F8A-4C73-4F3D-8F78-50B8DEC28A86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TapTapMiss/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "touchesBegan(_:with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84C08F8A-4C73-4F3D-8F78-50B8DEC28A86 - f72681d4c148a054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TapDash.SquareGameGameScene.touchesBegan(_: Swift.Set&lt;__C.UITouch&gt;, with: Swift.Optional&lt;__C.UIEvent&gt;) -&gt; ()"
+                  moduleName = "TapDash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choconat/Desktop/Apple%20Developer%20Academy/nano%202/TapTapMiss/TapTapMiss/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "84C08F8A-4C73-4F3D-8F78-50B8DEC28A86 - f72681d4c148a054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TapDash.SquareGameGameScene.touchesBegan(_: Swift.Set&lt;__C.UITouch&gt;, with: Swift.Optional&lt;__C.UIEvent&gt;) -&gt; ()"
+                  moduleName = "TapDash"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/choconat/Desktop/Apple%20Developer%20Academy/nano%202/TapTapMiss/TapTapMiss/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
